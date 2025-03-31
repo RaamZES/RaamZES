@@ -1,38 +1,40 @@
 ```bash
-> Backend Developer Initiated...
-> Loading Tech Stack...
-> Access Granted 🚀
+> Python Backend Developer Activated...
+> Network Systems Online...
+> Electronics Module Loaded...
 ```
 
-### Hi there, I'm [Your Name] 👋
-
-🖥️ **Backend Developer | API Architect | Database Enthusiast**
-
----
-
-#### 🛠️ Tech Stack:
-
-```yaml
-- Languages: Node.js, Python, Go
-- Databases: PostgreSQL, Redis, MongoDB
-- Infrastructure: Docker, Kubernetes, AWS, Nginx
-- Tools: GraphQL, gRPC, RabbitMQ, CI/CD
-```
-
-#### 🔥 About Me:
-- Passionate about high-performance, scalable backend systems.
-- Love working on distributed architectures & cloud solutions.
-- Open-source contributor & backend problem solver.
-- Constantly improving, always learning.
-
----
-
-#### 📡 Connect with Me:
-📧 [your.email@example.com]  
-💼 [LinkedIn](https://linkedin.com/in/yourprofile)  
-🌎 [Website](https://yourwebsite.com)  
+💻 **Python | Networking | Electronics**
 
 ```bash
-> Connection Terminated...
-> Awaiting Next Request...
+> Skills Loaded:
+  - Python (Flask, Django, FastAPI)
+  - Data Structures, Algorithms
+  - SQL (PostgreSQL, MySQL)
+  - REST API, AsyncIO
+  - C/C++, JavaScript, Bash
+  - Git, Docker, AWS, Linux
+  - Networking (TCP/IP, MQTT, WebSockets)
+  - HTML/CSS, PHP
+  - Embedded Systems
+```
+
+```bash
+> Languages Initialized:
+  - 🇺🇦 Ukrainian (Native)
+  - 🇷🇺 Russian (Native)
+  - 🇵🇱 Polish (Fluent)
+  - 🇬🇧 English (Intermediate)
+  - 🇩🇪 German (Learning)
+```
+
+```bash
+> Contact Information:
+  - Email: niksor7777@gmail.com
+  - LinkedIn: https://www.linkedin.com/in/mykyta-sorokin-9643852ab/
+```
+
+```bash
+> System Standby...
+> Awaiting Next Task...
 ```
